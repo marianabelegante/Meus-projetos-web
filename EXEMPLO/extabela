@@ -15,8 +15,6 @@
         <tbody>
             <tr><td> Mickey </td><td> 35 </td></tr>
             <tr><td> Pateta </td><td> 25 </td></tr>
-            <tr><td> Wolf</td><td> <img src="../imagens/wolf.jpg"
-                                        alt="wolf" width="200" height="100"> </td></tr>
         </tbody>
     </table>
     
